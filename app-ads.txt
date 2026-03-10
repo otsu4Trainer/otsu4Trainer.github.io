@@ -143,3 +143,4 @@ xandr.com, 13799, RESELLER
 xandr.com, 15840, RESELLER
 xandr.com, 17779, RESELLER
 zmaticoo.com, 5135004, RESELLER
+adagio.io, 1522, RESELLER
